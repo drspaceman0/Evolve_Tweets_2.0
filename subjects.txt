@@ -1,0 +1,172 @@
+ANIMALS
+dog
+bird
+cat
+llama
+monkey
+giraffe
+hamster
+iguanna
+raccoon
+spiders
+#
+FAMILY
+mom
+dad
+sister
+brother
+baby
+uncle
+aunt
+#
+POLITICS
+Donald Trump
+President Obama
+Hillary CLinton
+Bernie Sanders
+white house
+congress
+republicans
+democrats
+liberals
+#
+SCIFI
+robot
+dragon
+magic
+knight
+wizard
+pesant
+#
+MATH
+rectangle
+square
+circle
+square root
+quadratic formula
+#
+PLACES
+Paris
+United States
+Cannada
+London
+Deleware
+Texas
+New York City
+Moscow, Idaho
+Disneyland
+#
+CELEBRITIES
+Britney Spears
+Kanye West
+Kim Kardashian
+Drake
+Beyonce
+Niki Minaj
+Brad Pitt
+Rihanna
+Katy Parry
+Lady Gaga
+Whopee Goldberg
+#
+SILLY
+rubber chicken
+woopie cushion
+your mom
+feels
+memes
+#
+JOBS
+butcher
+fireman
+policeman
+teacher
+prostitute
+pilot
+dog walker
+#
+BODYPARTS
+penis
+butt
+ass
+arm
+cock
+armpit
+leg
+belly button
+stomach
+ear
+hair
+testicles
+eyes
+#
+BODYFLUIDS
+poo poo
+farts
+blood
+sweat
+tears
+barf
+urine
+saliva
+spinal fluid
+queefs
+toe fungus
+placenta
+#
+APPLIANCES
+microwave
+blender
+fridge
+knife
+spoon
+fork
+toilet
+sink
+shower
+bath
+couch
+bed
+#
+TECHNOLOGY
+phone
+computer
+television
+game console
+lazer
+atom bomb
+robot
+android
+#
+VEHICLES
+car
+boat
+bicycle
+skiis
+snowboard
+skateboard
+surfboard
+rollerskates
+#
+CLOTHES
+hat
+scarf
+pants
+dress
+underwear
+shirt
+socks
+thong
+bra
+sweatshirt
+#
+MUSIC
+rap
+hip hop
+rock
+alternative
+country
+guitar
+drums
+bass
+#
